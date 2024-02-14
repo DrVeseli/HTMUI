@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./HTML/**/*.html"],
+  content: ["./**/*.html"],
   theme: {
     fontFamily: {
       Geist: ["Geist-mono"],
